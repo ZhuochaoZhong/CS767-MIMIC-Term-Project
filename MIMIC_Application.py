@@ -280,6 +280,7 @@ def prediction_app():
         print("Please enter only 1 or 2")
         prediction_app()
 
-
+demo = prediction_app()
+print(demo.toPandas()['prediction'][0])
 
 
