@@ -1,9 +1,11 @@
 # CS767-MIMIC-Term-Project
 
-File All_features_EXP.py would generate All_features_Classification.txt as output
+## File All_features_EXP.py would generate All_features_Classification.txt as output
 
 
-File All_features_LOS.py would generate All_features_Regression.txt as output
+## File All_features_LOS.py would generate All_features_Regression.txt as output
+
+### Both txt files are ready to read by Spark and contains well structured features vector and label column
 
 To run the application, use MIMIC_Application.py
 
